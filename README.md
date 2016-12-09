@@ -9,3 +9,5 @@ Here is some plain text.
 Super exciting stuff on this page!
 Let’s try adding an emoji! :+1:
 Oooh I think I’m a bit confused…do we use mark down here in our text editor as well??? My brain is full.
+
+Sorry guys that this is so boring for our practice with pull requests and collaboration.
